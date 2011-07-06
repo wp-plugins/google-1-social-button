@@ -2,7 +2,7 @@
 Contributors: waiphyohan
 Tags: google +1, google+1, Google +1 Social Button, google plusone, social media, share, social plugin, +1 social recommend button, +1 button, seo, voting, like
 Requires at least: 2.7.2
-Tested up to: 3.1.3
+Tested up to: 3.2
 Stable tag: 1.0
 
 == Description ==
